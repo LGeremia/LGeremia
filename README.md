@@ -1,4 +1,9 @@
-### Hi there 👋
+### Opa!
+
+Sou estudante de Ciência da Computação no Intituto Federal Catarinense - Campus Videira e atuo como Desenvolvedor Web na empresa Whap Soluções Web utilizando principalmente Wordpress para desenvolvimento de sites.
+
+# Contato:
+e-mail: leonardogeremiasc@gmail.com
 
 <!--
 **LGeremia/LGeremia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
