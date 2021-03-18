@@ -1,8 +1,8 @@
-### Opa!
+# Opa!
 
 Sou estudante de Ciência da Computação no Intituto Federal Catarinense - Campus Videira e atuo como Desenvolvedor Web na empresa Whap Soluções Web utilizando principalmente Wordpress para desenvolvimento de sites.
 
-# Contato:
+### Contato:
 e-mail: leonardogeremiasc@gmail.com
 
 <!--
