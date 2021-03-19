@@ -3,7 +3,7 @@
 Meu nome é Leonardo Geremia, sou estudante de Ciência da Computação no Intituto Federal Catarinense - Campus Videira e atuo como Desenvolvedor Web na empresa Whap Soluções Web, trabalho principalmente Wordpress para desenvolvimento de sites, landingpages e e-commerces, mas também faço alguns projetos utilizando ReactJS e estou melhorando minhas habilidades para trabalhar como desenvolvedor back-end com a tecnologia com NodeJS. 
 
 ### Contato:
-linkedin: https://www.linkedin.com/in/leonardogeremia/
+linkedin: https://www.linkedin.com/in/leonardogeremia/ <br>
 e-mail: leonardogeremiasc@gmail.com
 
 <!--
