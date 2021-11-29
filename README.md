@@ -28,6 +28,7 @@
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
+- [X] Linux
 - [X] Kanban
 
 ## In progress
@@ -38,7 +39,7 @@
 
 ## Send a message
 
-Linkedin: <https://www.linkedin.com/in/leonardogeremia/>
+Linkedin: <https://www.linkedin.com/in/leonardogeremia/> <br>
 e-mail: leonardo.geremia@hotmail.com
 
 <!--
