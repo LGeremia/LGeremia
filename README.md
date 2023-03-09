@@ -14,12 +14,6 @@
 * Passionate about Technology, games  and fantasy
 * The Lord of the Rings Fan
 
-## Personal to-do list
-
-- [ ] Get a backend Job
-- [ ] Complete Graduation in Computer Science
-- [ ] Visit New Zealand
-
 ## Skills
 
 - [x] Wordpress
@@ -36,6 +30,12 @@
 - [ ] NodeJS
 - [ ] Typescript
 - [ ] NoSQL
+
+## Personal to-do list
+
+- [ ] Get a backend Job
+- [ ] Complete Graduation in Computer Science
+- [ ] Visit New Zealand
 
 ## Send a message
 
